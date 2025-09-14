@@ -29,7 +29,7 @@ At 21 years old and completing my Master's in Software Engineering at FEUP, I po
 At 21 years old and completing my Master's in Software Engineering at FEUP, I possess strong interest and practical experience in full-stack development. I am an enthusiast of good engineering practices and creating innovative software solutions. **IBM Certified professional** with expertise across the full software development lifecycle.
 
 ### Academic Excellence
-- **Master's Average**: 16/20 marks
+- **Master's Average**: 17/20 marks
 - **Bachelor's Average**: 16/20 marks (A)
 - **Erasmus+ Average**: 9/10 marks
 
