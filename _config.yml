@@ -1,14 +1,14 @@
 title: "Nuno Oliveira Fernandes"
-description: "Full-Stack Software Engineer & Master's Student"
-url: "https://nof03.github.io"
+description: "MLOps Researcher & Master's Student"
+url: "https://nunoferna.github.io"
 baseurl: ""
 
 # Personal Info
 author:
   name: "Nuno Oliveira Fernandes"
   email: "nuno.o.fernandes@outlook.pt"
-  linkedin: "nuno-nof-fernandes"
-  github: "NOF03"
+  linkedin: "nunoferna"
+  github: "nunoferna"
   location: "Madeira/Porto"
 
 # Build settings

@@ -9,147 +9,117 @@ title: "Software Engineer"
     </div>
 </div>
 
-# Nuno Oliveira Fernandes
+# Nuno Fernandes
 {: .hero-title}
 
-## Msc Student in Software Engineering
+## MLOps Researcher & Msc in Software Engineering
 {: .hero-subtitle}
 
-At 21 years old and completing my Master's in Software Engineering at FEUP, I possess strong interest in Solution Architecture and DevOps Engineering, and practical experience in full-stack development with **Next.js**, **Django**, **Spring Boot**, and **Laravel**. **IBM Certified** in Full Stack Development, Back-End Development, and DevOps Engineering.
+{: .hero-contact}
+
+DevOps/Software Engineer with 4+ years of team‑based academic development and in early-career of professional experience, focused on IaC, CI/CD, cloud, and automation, with a growth mindset and strong collaboration habits.
 {: .hero-description}
 
-[Get In Touch](#contact-me){: .btn .btn-primary} [View Projects](#featured-projects){: .btn .btn-secondary}
+[Get In Touch](#contact-me){: .btn .btn-primary} [View Projects](#projects){: .btn .btn-secondary}
 {: .hero-buttons}
 
 ---
 
-## About Me
+## Work Experience
 {: .section-title}
 
-At 21 years old and completing my Master's in Software Engineering at FEUP, I possess strong interest and practical experience in full-stack development. I am an enthusiast of good engineering practices and creating innovative software solutions. **IBM Certified professional** with expertise across the full software development lifecycle.
+### MLOps Researcher
+**Devoteam** • *Nov 2025 — Present* • Porto, PT
 
-### Academic Excellence
-- **Master's Average**: 17/20 marks
-- **Bachelor's Average**: 16/20 marks (A)
-- **Erasmus+ Average**: 9/10 marks
+- Researching and developing a MLOps framework using Open Source Software that handles the end-to-end process
+- Aims to have a centralized platform for all the involving teams from data handling to a cloud-agnostic deployment
 
-### Personal Achievements
-- **Karate**: 10+ years of practice
-- **Black Belt**: 1st Dan
-- **Values**: Discipline, perseverance, respect
+### DevOps Engineer Intern
+**Uphold** • *Jul 2025 — Sep 2025* • Porto, PT
 
----
+- Developed a GitHub App Bot in Go with Temporal.io to automate Terraform module versioning, PR generation, and infrastructure workflows, cutting release cycles by **70–80%**
+- Managed **30+ Terraform modules** across core infrastructure repositories, improving CI/CD reliability and resilience
 
-## Professional Experience
-{: .section-title}
+**Tools**: GitHub App, Temporal.io, Go, Terraform, Terragrunt
 
-### Full-Stack Engineer
-**Musiquence Technologies** • *Feb 2024 - Jun 2024*
+### Full-Stack Engineer Intern
+**Musiquence Technologies** • *Feb 2024 — Jun 2024* • Madeira, PT
 
-Developed a patient management website allowing 4-5 psychologists to monitor the progress of **50+ patients** through statistics from completed tasks/games. Responsible for the entire software process from design to deployment using **Agile methodology**.
+- Designed and deployed a patient management web app enabling **4–5 psychologists** to track progress of **50+ patients**
+- Led full software lifecycle using an Agile methodology
 
-**Technologies**: Next.js, Google Cloud Functions, Firebase
-
-### Research Fellow
-**ARDITI** • *Jan 2023 - Jun 2023*
-
-- Developed the foundation of **SAFEstádios** mobile application in React Native
-- Created VR games for informal carers using **Unity3D/SteamVR**
-
-### IT Management
-**Instituto Get.Start** • *Jul 2023*
-
-Implemented a **Moodle platform** for educational institution with **350+ students**, enabling innovative teaching approaches beyond traditional methods.
+**Tools**: GitHub, Next.js, Google Cloud Functions, Firebase
 
 ---
 
 ## Education
 {: .section-title}
 
-### Master's in Software Engineering
-**FEUP** • *Sep 2024 - Present*
+### Master's of Science, Software Engineering
+**Faculty of Engineering of University of Porto** • *Sep 2024 — Jul 2026* • Porto, PT
 
-Good practices and in-depth understanding of the entire software process, from elicitation to maintenance. Further developed knowledge in Next.js, Spring Boot, and Docker.
+**Current Grade**: 17/20
 
-**Expected Average**: 16 marks
+### Bachelor's of Science, Computer Engineering
+**University of Madeira** • *Oct 2021 — Jul 2024* • Madeira, PT
 
-### Bachelor's in Computer Engineering
-**UMa** • *Oct 2021 - Jul 2024*
-
-**Outstanding modules with grade A**: Internship, Web Development, Requirements Engineering
-
-**Final Average**: 16 marks (A)
-
-### Erasmus+ in Computer Engineering
-**University of Maribor, Slovenia** • *Feb 2024 - Jul 2024*
-
-**Final Average**: 9/10 marks
+**Grade**: 16/20
 
 ---
 
-## Featured Projects
+## Projects
 {: .section-title}
 
-### KurzVid
-🏆 **Hackathon Winner** - 7.1 Tech Hub 1st Season
+### Maintainer, eASKKSA ( [askksa.pt](https://www.askksa.pt/) )
+**Personal Project** • *Aug 2024 — Present*
 
-Innovative solution that creates short clips featuring the most intense emotions from films/series. Developed in **1 week** as part of winning team among 6 competing teams.
+- Responsible for the development of a Laravel web platform to manage **250+ athletes** and karate examinations
+- Built also a website to promote the association's values and activities using Next.js, focusing on SEO
 
-**Technologies**: Advanced video processing, emotion detection algorithms
+**Tools**: Next.js, Laravel, Vercel, GitHub, Google Analytics 4
 
-### eASKKSA
-**Laravel-based Management System**
+### AI Engineer, U.PORTO.AI
+**Academic Project** • *Feb 2025 — Jul 2025*
 
-Website for managing **150+ athletes** and karate examinations, focusing on usability and appealing UI/UX. Also includes promotional website for the association.
+- Architected an AI chatbot utilizing RAG and web crawling to provide accurate information of the U.Porto website
+- Built a Streamlit admin dashboard managing **3000+ crawled pages** for content updates and quality control
 
-**Technologies**: Laravel, MySQL, responsive design
-
-### PeakPredictions
-**Advanced Betting Platform**
-
-Platform with advanced functionalities including odds tracking and subscriptions. Responsible for **architecture** and **project management**.
-
-**Technologies**: Full-stack development, real-time data processing
+**Tools**: FastAPI, Streamlit, Langchain, Qdrant, Crawl4AI, Prometheus, Redis
 
 ---
 
-## Licenses & Certifications
+## Awards & Activities
 {: .section-title}
 
-### IBM Certified Professional
-**July 2024** • *IBM*
+### Hackathon Winner, 7.1 Tech Hub 1st Season
+**Apr 2025**
 
-**🏆 Full Stack Software Developer**
-Comprehensive certification covering end-to-end web development, from frontend frameworks to backend APIs and database integration.
+Planned and implemented, in **1 week**, with 6 talented colleagues against 4 groups, an algorithm to detect the most intense parts of a movie through sentiment analysis to create shorts and display them in an app to engage younger users.
 
-**🔧 Back-End Development**
-Advanced backend development practices including server-side programming, database design, API development, and cloud deployment strategies.
+### Academic Volunteer
+**Oct 2022 — Aug 2024**
 
-**⚙️ DevOps and Software Engineering**
-Modern DevOps practices, CI/CD pipelines, containerization, infrastructure as code, and software engineering best practices.
-
-**Skills Demonstrated**: Full-stack development, backend architecture, DevOps automation, cloud technologies, software engineering principles
+- Developed the association's accommodation website using Laravel
+- Edited and produced **25+ audio/video files** for podcasts (IT'S OKAY, Universitas) and the music group FATUM
 
 ---
 
-## Technical Skills
+## Skills
 {: .section-title}
 
-### Programming Languages
-- **JavaScript** - Advanced
-- **Python** - Advanced
-- **Java** - Intermediate
-- **PHP** - Intermediate
+### Coding Languages
+JavaScript, Python, TypeScript, HTML/CSS, Java, Bash, Go, Terraform
 
-### Frameworks & Libraries
-- **Frontend**: Next.js, React, React Native, Vite
-- **Backend**: Django, Spring Boot, Laravel
-- **Game Development**: Unity3D
+### Technologies
+Next.js, Django, Laravel, Git, GitHub, UNIX, Docker, NGINX, AWS, Azure, MySQL, Spring Boot
 
-### Databases & Cloud
-- **Databases**: Firebase, MySQL, PostgreSQL
-- **Cloud**: Google Cloud Functions, Azure
-- **DevOps**: Docker, Git, GitLab, GitHub
+---
+
+## Hobbies
+{: .section-title}
+
+### Karate 1st Dan Black Belt
+Practising for **10+ years**, developing essential values inspired by Bushido: Dojo Kun.
 
 ---
 
